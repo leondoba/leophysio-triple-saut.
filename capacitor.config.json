@@ -1,0 +1,6 @@
+{
+  "appId": "com.leophysio.triplesaut",
+  "appName": "Triple saut",
+  "webDir": "www",
+  "android": { "backgroundColor": "#101A33" }
+}
